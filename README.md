@@ -4,6 +4,12 @@ This project is a [MIDI file](https://wiki.ccarh.org/wiki/MIDI_file_parsing_home
 ## Project Description
 "MIDI files are the sheet music of the 21st century – they tell you the chords and melodies artists wrote for songs and the often even the drum arrangements. MIDI files can contain the inner workings of a complete song." - Beat Lab Academy.
 
+MIDI files end with the ".mid" extension. Here is an example MIDI file to better understand this project and the various methods in the parser.c file.
+
+![alt text][MIDI file example]
+
+[MIDI file example]: https://i.stack.imgur.com/jWWFg.png
+
 ## Language Used
 This project is entirely coded in C.
 
